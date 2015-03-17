@@ -1,0 +1,49 @@
+::-moz-selection {
+       background-color: #868181;
+       color: #FFF;
+}
+
+
+::selection {
+       background-color: #868181;
+       color: #FFF;
+}
+body{
+background-color:#FFF;
+font-family: 'Actor', sans-serif;
+
+}
+header{
+background-color:#EEE;
+text-align:center;
+border : solid 2px black;
+
+height:auto;
+padding:20px;
+margin:5px;
+box-shadow:rgba(110,110,110 , .5) 10px 10px 10px;
+}
+#name{
+font-size:350%;
+color:#333030;
+}
+
+#education,#skills,#projects,#objective{
+margin:5px;
+border : 2px solid #ABC;
+font-size:110%;
+}
+h1{
+background-color:#ABC;
+color:#868181;
+}
+h3,li,#objective{
+color:#727171;
+}
+a{
+color:#222;
+}
+#proj-sub{
+font-size:150%;
+
+}
